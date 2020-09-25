@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--앱바 AppBar 스타일링-->
+    <style name="AppTheme.AppBar">
+        <item name="titleTextColor">#ffffffff</item>
+        <item name="subtitleTextColor">#FFC19E</item>
+        <item name="colorControlNormal">#ffffffff</item>
+    </style>
+
+</resources>
